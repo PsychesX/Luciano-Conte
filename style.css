@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #eef7df;
+    background-color: #f7f3df;
     color: #e6edf3;
     display: flex;
     justify-content: center;
@@ -88,4 +88,5 @@ h6 {
     filter: brightness(0) invert(1);
 
 }
+
 
